@@ -23,6 +23,6 @@ nav{
   justify-content: space-around;
   align-items: center;
   list-style: none;
-  opacity: 1;
+ // opacity: 1;
   font-size: 40px;
 }
