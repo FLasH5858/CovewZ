@@ -15,7 +15,7 @@ import numeral from "numeral";
 import Map from "./Map";
 import "leaflet/dist/leaflet.css";
 
-const Covid = () => {
+const Covid = () =>  {
   const [country, setInputCountry] = useState("worldwide");
   const [countryInfo, setCountryInfo] = useState({});
   const [countries, setCountries] = useState([]);
