@@ -1,0 +1,33 @@
+/*.covewz{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background: rgb(55, 140, 182);
+    color: white;
+    
+  }*/
+
+  
+  h1{
+    
+    text-decoration: underline;
+    text-decoration-color: red;
+    margin-top: 50px;
+    
+    text-align: center;
+    font-size: 80px;
+    color: black;
+     
+  }
+
+  p{
+    text-decoration: underline;
+    text-decoration-color: red;
+    justify-content: space-around;
+    
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    color: rgb(137, 238, 22);
+  }
