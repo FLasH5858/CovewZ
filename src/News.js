@@ -1,5 +1,5 @@
 import React from 'react';
-import NavbarComponent from './components/navbar';
+import NavbarComponent from './navbar';
 import { BrowserRouter } from 'react-router-dom';
 //import FooterComponent from './components/footer';
 
